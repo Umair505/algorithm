@@ -1,0 +1,1 @@
+{"name":"Local: labyrinth","url":"e:\\CODING\\phitron\\ALGORITHM\\Conceptual session\\labyrinth.cpp","tests":[{"id":1706285656778,"input":"5 8\n########\n#.A#...#\n#.##.#B#\n#......#\n########","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\CODING\\phitron\\ALGORITHM\\Conceptual session\\labyrinth.cpp","group":"local","local":true}

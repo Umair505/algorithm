@@ -1,0 +1,1 @@
+{"name":"Local: compound_count","url":"e:\\CODING\\phitron\\ALGORITHM\\Conceptual session\\.cph\\compound_count.cpp","tests":[{"id":1706275196274,"input":"7 4\n1 2\n1 3\n4 5\n6 7","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\CODING\\phitron\\ALGORITHM\\Conceptual session\\.cph\\compound_count.cpp","group":"local","local":true}
